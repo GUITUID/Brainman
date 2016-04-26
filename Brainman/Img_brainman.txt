@@ -1,0 +1,102 @@
+Img_brainman.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 2, 2
+  size: 64, 39
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+block
+  rotate: false
+  xy: 2, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+block
+  rotate: false
+  xy: 20, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+block
+  rotate: false
+  xy: 38, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+block
+  rotate: false
+  xy: 56, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+cloud
+  rotate: false
+  xy: 68, 32
+  size: 16, 7
+  orig: 16, 16
+  offset: 0, 5
+  index: 1
+cloud
+  rotate: true
+  xy: 68, 2
+  size: 28, 10
+  orig: 32, 16
+  offset: 2, 3
+  index: 2
+piou
+  rotate: false
+  xy: 74, 41
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+piou
+  rotate: false
+  xy: 80, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+platform
+  rotate: false
+  xy: 86, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+platform
+  rotate: false
+  xy: 98, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+platform
+  rotate: false
+  xy: 92, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+sky
+  rotate: false
+  xy: 104, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+water
+  rotate: false
+  xy: 110, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
